@@ -1,0 +1,5 @@
+- 👋 Hi, We are Eric Chen, Jasper Hunag, and Aitan Duncan
+- 👀 We are interested in teaching students from HIACS the basics of Scratch and Web Developement.
+- 🌱 We are currently learning how to code python.
+- 💞️ We look foward to collaborate with our students.
+- 📫 How to reach us: gr27echen@hiacs.org; gr27jhuang@hiacs.org; gr27aduncan@hiacs.org
